@@ -4,6 +4,16 @@
 
 ---
 
+## 🛠️ AI Tools Used
+
+* **ChatGPT**
+  Used for brainstorming, debugging, improving prompts, and generating structured solutions
+
+* **GitHub Copilot**
+  Used for inline code suggestions, faster coding, and autocomplete in VS Code
+
+---
+
 ## 📅 April 24, 2026
 
 ### 🔹 Prompt 1
@@ -264,6 +274,8 @@ Maintains speed and simplicity
 
 ---
 
-✨ **Final Note:**
-Focused on building a **fast, simple, and document-aware chatbot** rather than a complex system.
+
+
+
+
 
